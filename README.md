@@ -2,6 +2,8 @@
 
 Pokémon Explorer is a custom React project built for the final project stage. It uses the public PokeAPI to display Pokémon data, supports search and filtering, and includes a favorites feature using local storage.
 
+Project pitch link: https://www.loom.com/share/b159fad43f404c1c97359feb062af961
+
 ## Features
 
 - Search Pokémon by name

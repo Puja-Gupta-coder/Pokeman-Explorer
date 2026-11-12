@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Pokemon App Font";
+  src: local("Segoe UI"), local("Arial"), local("sans-serif");
+  font-style: normal;
+  font-weight: 400;
+}
+
+:root {
+  font-family: "Pokemon App Font", "Segoe UI", Arial, sans-serif;
+}
